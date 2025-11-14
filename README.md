@@ -2,10 +2,8 @@
 
 <div style="background: linear-gradient(135deg, #b3ecff, #a8fff0); padding: 20px; border-radius: 20px;">
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f41f.svg" width="40"/>  
 🎓 Tengo 25 años y actualmente curso el **2º año de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
 💻 Me apasiona el desarrollo de software y crear proyectos interesantes.  
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f980.svg" width="40"/>
 
 ---
 
@@ -39,7 +37,6 @@
 - 💡 Me encanta aprender y experimentar con nuevas herramientas y lenguajes.  
 - ✨ En mi tiempo libre me gusta **crear pequeños proyectos**, **mejorar mi lógica de programación** y **seguir aprendiendo**.
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f338.svg" width="40"/>
 
 ---
 
