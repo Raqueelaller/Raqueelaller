@@ -1,11 +1,15 @@
-# ¡Hola! 👋 Soy Raquel Aller
+#  ¡Hola! 👋 Soy Raquel Aller
 
+<div style="background: linear-gradient(135deg, #b3ecff, #a8fff0); padding: 20px; border-radius: 20px;">
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f41f.svg" width="40"/>  
 🎓 Tengo 25 años y actualmente curso el **2º año de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-💻 Me apasiona el desarrollo de software y crear proyectos interesantes.
+💻 Me apasiona el desarrollo de software y crear proyectos interesantes.  
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f980.svg" width="40"/>
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Tecnologías que uso <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2728.svg" width="30"/>
 
 ### 📝 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,11 +33,13 @@
 
 ---
 
-## 🌱 Un poco sobre mí
+## 🌱 Un poco sobre mí 🌸
 
 - 📍 Soy de **Málaga, España** 🇪🇸  
-- 💡 Me encanta aprender y experimentar con nuevas herramientas y lenguajes.    
+- 💡 Me encanta aprender y experimentar con nuevas herramientas y lenguajes.  
 - ✨ En mi tiempo libre me gusta **crear pequeños proyectos**, **mejorar mi lógica de programación** y **seguir aprendiendo**.
+
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f338.svg" width="40"/>
 
 ---
 
@@ -50,4 +56,7 @@
 
 ---
 
-🌟 *Gracias por visitar mi perfil* 🌟
+🌟 *Gracias por visitar mi perfil* 🌟  
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg" width="40"/>
+
+</div>
